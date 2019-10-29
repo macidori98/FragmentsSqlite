@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentsSqlite</string>
+    <string name="add_hobby">Add a new Hobby</string>
+    <string name="add">Add Hobby</string>
+    <string name="new_hobby">Your new hobby</string>
+    <string name="view_hobby">View Hobby</string>
+    <string name="my_hobby">My hobbies</string>
+    <string name="added">Hobby successfully added</string>
+    <string name="fail">Hobby already exists</string>
+    <string name="enter_text">Enter your hobby first</string>
+</resources>
